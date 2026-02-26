@@ -4,7 +4,7 @@ I work with data and numbers for a living. My background is in finance, which me
 
 These days I spend a lot of time in SQL, Excel, and Power BI. Not because the tools are the point, but because they tend to get me to the answer faster.
 
-When I'm not wrangling data, you'll find me playing the guitar, experimenting in the kitchen, out cycling, or deep in a book. Big believer that the best professionals are curious people first. I also love languages and I speak 4.
+When I'm not wrangling data, you'll find me playing the guitar, experimenting in the kitchen, out cycling, or deep in a book. I also love languages and I speak four. I am a big believer that the best professionals are curious people first.
 
 If you want to see the work, it is right below. Each repo is a focused piece of analysis on a real dataset. Feel free to look around.
 
